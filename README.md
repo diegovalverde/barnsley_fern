@@ -14,5 +14,5 @@ Also, you may need to install [simple 2d library](https://github.com/simple2d/si
 
 To compile the example:
 ```
-python ../funk/funky.py barnsley_fern.f --include ../funk/include
+python <path_to_funk>/funky.py barnsley_fern.f --include <path_to_funk>/include
 ```
