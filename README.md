@@ -1,11 +1,11 @@
 # barnsley_fern
-Barnsley Fern fractal in Funk!
+[Barnsley Fern fractal](https://en.wikipedia.org/wiki/Barnsley_fern) in [Funk](https://github.com/diegovalverde/funk)!
 
 <p style="text-align:center;"><img src="./screenshots/screenshot.png" width="640" height="480"></p>
 
 ## To build:
 
-Make sure you get the Funk toolchain from [here](https://github.com/diegovalverde/funk | width=100).
+Make sure you get the Funk toolchain from [here](https://github.com/diegovalverde/funk).
 
 ```python <path_to_your_funk>/funky.py game_of_life.f --include <path_to_your_funk>/include```
 
