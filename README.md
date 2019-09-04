@@ -10,9 +10,3 @@ Make sure you get the Funk toolchain from [here](https://github.com/diegovalverd
 ```python <path_to_your_funk>/funky.py game_of_life.f --include <path_to_your_funk>/include```
 
 Also, you may need to install [simple 2d library](https://github.com/simple2d/simple2d)
-
-
-To compile the example:
-```
-python <path_to_funk>/funky.py barnsley_fern.f --include <path_to_funk>/include
-```
